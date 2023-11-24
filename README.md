@@ -1,4 +1,4 @@
- 👋 Hi there! I’m Ricardo
+ 👋 Hi there! 
 
 
 
