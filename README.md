@@ -1,6 +1,6 @@
  👋 Hi there! My current key interests:
 
-Bayesian Inference & Optimization, Pattern Recognition, Deep Learning, High Performance Computing, Clustering & Feature Engineering
+Bayesian Inference & Optimization, Physics-Informed Learning, Pattern Recognition, Deep Learning, Clustering & Feature Engineering (Autoencoders)
 
 
 
